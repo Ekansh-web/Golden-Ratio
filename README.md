@@ -25,7 +25,7 @@ It also contains the **filter** so that the user can easily navigate to differen
 
 **Activity Page:** It contains the interactive mathematical activity which is showing that how any two random numbers thought by user will give the Golden Ratio. It contains the input area so that the user can give the numbers and can perform this interesting activity.
 
-![](/images/main.png)
+![](main.png)
 
 By this website user can get,
 
