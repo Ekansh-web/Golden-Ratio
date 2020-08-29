@@ -10,6 +10,7 @@
         
         <title>Golden Ratio</title>
         <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="icon" type="image/icon-type" href="img/icon.svg">
         <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
     <body>
