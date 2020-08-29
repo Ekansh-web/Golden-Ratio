@@ -5,9 +5,9 @@
 
 # - Project
 
-# *Golden Ratio** : It is a special number denoted by Greek symbol phi. It is simply the ratio of two quantities is equal to the ratio of sum of two quantities to the bigger quantity i.e. 1.61803398874989484820….
+**Golden Ratio** : It is a special number denoted by Greek symbol phi. It is simply the ratio of two quantities is equal to the ratio of sum of two quantities to the bigger quantity i.e. 1.61803398874989484820….
 
-# *Introduction** : Project shows the concept of Golden Ratio i.e. explanation of Golden Ratio expression and spiral formation and as many examples of Golden Ratio in different fields i.e. in Nature, Design, Art and many others and also contains a magical activity by which user can take more interest in mathematics.
+**Introduction** : Project shows the concept of Golden Ratio i.e. explanation of Golden Ratio expression and spiral formation and as many examples of Golden Ratio in different fields i.e. in Nature, Design, Art and many others and also contains a magical activity by which user can take more interest in mathematics.
 
 Website contains -:
 
