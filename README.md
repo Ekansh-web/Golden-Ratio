@@ -14,7 +14,7 @@ Website contains -:
 - Home Page – Concept of Golden Ratio with examples
 - Examples Page – Application/Examples in different fields with filter
 - Activity Page – Contains Magical Activity by the concept of Golden Ratio
-- In-Depth Page – Contains a deep example especially in science and showing relation of fibonacci and Golden Ratio
+- In-Depth Page – Contains a deep example especially in science and showing relation of fibonacci with Golden Ratio
 
 **It is a responsive website. Its UI will correctly work on every device.**
 
